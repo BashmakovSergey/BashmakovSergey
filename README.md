@@ -1,7 +1,11 @@
 # Bashmakov Sergey
-![](https://sun9-52.userapi.com/impg/NwahCCFf5Z_AGBDQurQawEcQ0UEUCmwE_83wBQ/-Ekj7rRBERA.jpg?size=2560x1709&quality=95&sign=574534940e603c7a967db6d2cc4e4247&type=album)
 
-*Bashmakov Sergey* — начинающий разработчик на языке Swift. 
-Мои преимущества: 
+Hi there! I’m a beginner iOS developer
  
-1. Прохожу обучение в Нетологии 
+Successfully completed training from Netology Registration number IOS-36-8632965
+
+### Connect with me:
+
+<p align="left">
+<a href="https://vk.com/bashmakovsergey" target="blank"><img align="center" src="files/vk.svg" width="40" heigh="40" /></a>
+</p>
